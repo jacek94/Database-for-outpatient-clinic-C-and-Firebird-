@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\wizyta.o
+./release\choroba.o
+./release\recepta.o
+./release\pacjent.o
+./release\moc_mainwindow.o
+./release\moc_wizyta.o
+./release\moc_choroba.o
+./release\moc_recepta.o
+./release\moc_pacjent.o
+./release\qrc_resource.o
+);
